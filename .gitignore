@@ -6,6 +6,8 @@
 *.sublime-project
 *.sublime-workspace
 
+/Typora
+
 # Ruby Gem
 *.gem
 .bundle
