@@ -102,7 +102,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Logan_Lee(Leegwonseon)"
+  name             : "Logan_Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "This is my web develope study page"
   location         : "Japan"
