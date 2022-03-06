@@ -108,9 +108,9 @@ author:
   location         : "Japan"
   email            :
   links:
-    #- label: "Email"
-    #  icon: "fas fa-fw fa-envelope-square"
-    #  url: "mailto:GwonseonLee_86@outlook.com"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:GwonseonLee_86@outlook.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://LeeGwonSeon.github.io"
