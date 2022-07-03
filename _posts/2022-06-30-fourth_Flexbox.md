@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "What is Flexbox?"
-categories: coding
+categories: CSSLayout
 tag: [HTML, CSS, Flexbox, blog]
 toc: true
 author_profile: false
@@ -10,8 +10,10 @@ sidebar:
 ---
 
 <div class="notice">
-<h2>first study list.</h2>
+<h2>second study list.</h2>
 <ul>
+    <li>inline보다 발전된 flexbox</li>
+    <p>전 시간의 정리한 내용에서 나온 inline-block의 기능보다 design에 편리한 flexbox의 사용법과 개념을 정리하였습니다.</p>
     <li>1. Flexbox? </li>
     <li>2. How can use it? </li>
     <li>3. Flexbox_Container and item </li>

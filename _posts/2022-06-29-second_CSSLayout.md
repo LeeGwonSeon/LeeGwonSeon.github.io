@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "What is the CSS Layout?"
-categories: coding
+categories: CSSLayout
 tag: [CSS, SCSS, flexbox, grid, blog, visual studio code, node.js, Chrome browser]
 toc: true
 author_profile: false
@@ -12,7 +12,7 @@ sidebar:
 
 <ul>
     <li>front-end 화면 제작에 가장 기초적인 언어</li>
-    <p>화면 제작에 있어서 기초지식이며, 일반적으로 많이 사용하는 내용을 정리하여 완성도 높은 화면 제작에 도전하기 위해 공부를 시작하였다.</p>
+    <p>화면 제작에 있어서 기초지식이며, 일반적으로 많이 사용하는 내용을 정리하여 완성도 높은 화면 제작에 도전하기 위해 공부를 시작하였습니다.</p>
     
 </ul>
     

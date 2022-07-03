@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "How can make design?"
-categories: coding
+categories: CSSLayout
 tag: [HTML, CSS, link, blog]
 toc: true
 author_profile: false
@@ -12,6 +12,8 @@ sidebar:
 <div class="notice">
 <h2>first study list.</h2>
 <ul>
+    <li>design 설정 방법에 대한 첫 정리</li>
+    <p>html file에 작성한 데이터를 어떻게 design을 하는지에 대한 기초적인 조작방법과 개념을 정리하였습니다.</p>
     <li>1. html_box coding </li>
     <li>2. style_box design </li>
     <li>3. css link methot </li>
