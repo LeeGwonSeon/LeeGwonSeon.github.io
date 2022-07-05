@@ -72,7 +72,7 @@ sidebar:
 
 ![image-20220705201618402](https://github.com/LeeGwonSeon/LeeGwonSeon.github.io/blob/master/imeages/2022-07-05-seventh-Align-selfandorder/image-20220705201618402.png?raw=true)
 
-<h5>2번째 예로<span style="color:red">child2, child3의 order를 1로 설정되어 있고, child1는 order가 0으로 되어 있기 때문</span>에 위와 같은 설정이 가능합니다. 또한 이러한 상태에서flex-direction의 column과 align-silf에서 center를 설정하여 위치도 변경하여 꾸미는 것이 가능하니 디자인에 있어서 멋지게 꾸밀 수 있습니다.</h5>
+<h5>2번째 예로<span style="color:red">child1은 order2, child2의 order를 3로 설정되어 있고, child3는 order가 0으로 되어 있기 때문</span>에 위와 같은 설정이 가능합니다. 또한 이러한 상태에서flex-direction의 column과 align-silf에서 center를 설정하여 위치도 변경하여 꾸미는 것이 가능하니 디자인에 있어서 멋지게 꾸밀 수 있습니다.</h5>
 
 ```python
 .father {
