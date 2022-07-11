@@ -10,7 +10,7 @@ sidebar:
 ---
 
 <div class="notice">
-<h2>Seventh study list.</h2>
+<h2>Eighth study list.</h2>
 <ul>
     <li>wrap, nowrap, reverse, align-content의 개념 이해</li>
     <p>전 시간은 algin-self와 order에 대한 개념에 대해서 공부하였습니다. 이번 시간은 wrap, nowrap, reverse, align-content에 대한 개념을 정리하였습니다.</p>
