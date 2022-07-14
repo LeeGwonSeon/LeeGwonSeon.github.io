@@ -10,7 +10,7 @@ sidebar:
 ---
 
 <div class="notice">
-<h2>Nineth study list.</h2>
+<h2>tenth study list.</h2>
 <ul>
     <li>flex-basis 개념 이해</li>
     <p>전 시간은 flex-grow와 flex-shrink에 대한 개념에 대해서 공부하였습니다. 이번 시간은 flex-basis에 대한 개념을 정리하였습니다.</p>
